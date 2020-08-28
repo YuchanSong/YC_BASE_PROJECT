@@ -5,4 +5,5 @@
     <string name="network_is_wifi">Wifi enabled</string>
     <string name="network_is_data">Mobile data enabled</string>
     <string name="network_not_connected">Not connected to Internet</string>
+    <string name="notification_default_channel_id">default channel</string>
 </resources>
