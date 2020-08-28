@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "155888913352",
+    "firebase_url": "https://myfcm-ec07f.firebaseio.com",
+    "project_id": "myfcm-ec07f",
+    "storage_bucket": "myfcm-ec07f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155888913352:android:2190c881b6c54c7cb00efd",
+        "android_client_info": {
+          "package_name": "com.uchan.base"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155888913352-akviov94i2od58qd9t3s6opsvpd4bu5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF4D4c3Hjy4ucGWY617YNZGVAWsSUiK-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155888913352-akviov94i2od58qd9t3s6opsvpd4bu5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
