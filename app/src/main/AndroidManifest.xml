@@ -22,7 +22,7 @@
 
         <uses-library android:name="org.apache.http.legacy" android:required="false" />
 
-        <activity android:name="com.uchan.base.MainActivity">
+        <activity android:name=".view.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />

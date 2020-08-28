@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">YC_BASE_PROJECT</string>
+
+    <!--  인터넷 연결 상태 체크  -->
+    <string name="network_is_wifi">Wifi enabled</string>
+    <string name="network_is_data">Mobile data enabled</string>
+    <string name="network_not_connected">Not connected to Internet</string>
 </resources>
